@@ -1,0 +1,49 @@
+From Abiya Dharshini S to Everyone 09:10 PM
+if
+if else
+From Sarath A to Everyone 09:12 PM
+Non primitive
+From Abiya Dharshini S to Everyone 09:14 PM
+int,double,float,byte,long,short,boolean,char
+From kaviya pradi08 to Everyone 09:19 PM
+identifiers used in name, modules varibles, function, class.
+From Pranathi M to Everyone 09:24 PM
+no mam
+From Sharf Unnisa to Everyone 09:25 PM
+no mam
+From Keerthika V to Everyone 09:25 PM
+no mam
+From Sindhuja K to Everyone 09:25 PM
+no mam
+From Anubharathi J to Everyone 09:25 PM
+true
+1
+From Gopika Sivabalan to Everyone 09:28 PM
+yesterday absent mam
+went to college to get my certificates mam
+From Gopika Sivabalan to Everyone 09:40 PM
+else mam
+From Indrakka Mali to Everyone 09:41 PM
+package com.edu.condoper;
+
+import java.util.Scanner;
+
+public class LargestOfTwoNumbersIfElse {
+
+	public static void main(String[] args) {
+		int fnum,snum;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter two numbers");
+		fnum=sc.nextInt(); //10
+		snum=sc.nextInt(); //13
+		if(fnum>snum) {   //10>13  no
+			
+			System.out.println(fnum +" is larger than "+snum); //19 is lager than 13
+		}
+		else {
+			System.out.println(snum +" is larger than "+fnum);
+		}
+
+	}
+
+}
