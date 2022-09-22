@@ -1,0 +1,17 @@
+# java
+code
+package loopsta.com;
+
+public class DoWhlie {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i;
+		i=1;
+		do
+		{
+			System.out.println(i);
+		}while(i>1);
+	}
+
+}
